@@ -1,0 +1,6 @@
+C:\Users\RemionBacova\Desktop\sso\SSOLib\bin\Debug\SSOLib.dll.config
+C:\Users\RemionBacova\Desktop\sso\SSOLib\bin\Debug\SSOLib.dll
+C:\Users\RemionBacova\Desktop\sso\SSOLib\bin\Debug\SSOLib.pdb
+C:\Users\RemionBacova\Desktop\sso\SSOLib\obj\Debug\SSOLib.csprojResolveAssemblyReference.cache
+C:\Users\RemionBacova\Desktop\sso\SSOLib\obj\Debug\SSOLib.dll
+C:\Users\RemionBacova\Desktop\sso\SSOLib\obj\Debug\SSOLib.pdb

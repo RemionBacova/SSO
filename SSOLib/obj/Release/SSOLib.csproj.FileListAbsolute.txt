@@ -1,0 +1,7 @@
+C:\Users\RemionBacova\Desktop\sso\SSOLib\bin\Release\SSOLib.dll.config
+C:\Users\RemionBacova\Desktop\sso\SSOLib\bin\Release\SSOLib.dll
+C:\Users\RemionBacova\Desktop\sso\SSOLib\bin\Release\SSOLib.XmlSerializers.dll
+C:\Users\RemionBacova\Desktop\sso\SSOLib\bin\Release\SSOLib.pdb
+C:\Users\RemionBacova\Desktop\sso\SSOLib\obj\Release\SSOLib.dll
+C:\Users\RemionBacova\Desktop\sso\SSOLib\obj\Release\SSOLib.pdb
+C:\Users\RemionBacova\Desktop\sso\SSOLib\obj\Release\SSOLib.XmlSerializers.dll
